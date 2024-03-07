@@ -1,0 +1,23 @@
+{
+  "name": "sapi-kurban",
+  "version": "1.0.0",
+  "description": "Tea Testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "tea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angon23/sapi-kurban.git"
+  },
+  "keywords": [
+    "tea",
+    "testnet"
+  ],
+  "author": "seblu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angon23/sapi-kurban/issues"
+  },
+  "homepage": "https://github.com/angon23/sapi-kurban#readme"
+}
